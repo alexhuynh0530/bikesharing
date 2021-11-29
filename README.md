@@ -26,7 +26,7 @@ Using tableau to create visualizations we found that:
 
 To see the visualizations please see the Tableau story in the link below:
 
-![link to dashboard](https://public.tableau.com/app/profile/alexander.huynh/viz/NYCCitibikeStory_16381578867180/NYCCitibikeStory?publish=yes)
+[link to dashboard](https://public.tableau.com/app/profile/alexander.huynh/viz/NYCCitibikeStory_16381578867180/NYCCitibikeStory?publish=yes)
 
 ## Summary
 
